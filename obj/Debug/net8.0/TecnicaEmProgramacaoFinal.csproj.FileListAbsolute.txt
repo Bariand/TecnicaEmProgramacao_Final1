@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\bin\Debug\net8.0\TecnicaEmProgramacaoFinal.exe
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\bin\Debug\net8.0\TecnicaEmProgramacaoFinal.deps.json
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\bin\Debug\net8.0\TecnicaEmProgramacaoFinal.runtimeconfig.json
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\bin\Debug\net8.0\TecnicaEmProgramacaoFinal.dll
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\bin\Debug\net8.0\TecnicaEmProgramacaoFinal.pdb
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\obj\Debug\net8.0\TecnicaEmProgramacaoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\obj\Debug\net8.0\TecnicaEmProgramacaoFinal.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\obj\Debug\net8.0\TecnicaEmProgramacaoFinal.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\obj\Debug\net8.0\TecnicaEmProgramacaoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\obj\Debug\net8.0\TecnicaEmProgramacaoFinal.dll
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\obj\Debug\net8.0\refint\TecnicaEmProgramacaoFinal.dll
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\obj\Debug\net8.0\TecnicaEmProgramacaoFinal.pdb
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\obj\Debug\net8.0\TecnicaEmProgramacaoFinal.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\obj\Debug\net8.0\ref\TecnicaEmProgramacaoFinal.dll
+C:\Users\Lucas\source\repos\TecnicaEmProgramacaoFinal\obj\Debug\net8.0\TecnicaEmProgramacaoFinal.sourcelink.json
